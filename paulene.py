@@ -31,9 +31,6 @@ st.header("Academic Interests")
 st.write("""
 I have a strong interest in:
 - **[Interest 1]**: Description of your interest.
-- **[Interest 2]**: Description of your interest.
-- **[Interest 3]**: Description of your interest.
-
 I am particularly excited about learning more about these topics and exploring related opportunities.
 """)
 
@@ -42,9 +39,6 @@ st.header("Hobbies & Extracurricular Activities")
 st.write("""
 Outside of my academic life, I enjoy:
 - **[Hobby 1]**: Description of your hobby.
-- **[Hobby 2]**: Description of your hobby.
-- **[Hobby 3]**: Description of your hobby.
-
 These activities help me develop both personally and professionally.
 """)
 
@@ -53,9 +47,6 @@ st.header("Future Goals")
 st.write("""
 In the future, I aim to:
 - **[Goal 1]**: Description of your goal.
-- **[Goal 2]**: Description of your goal.
-- **[Goal 3]**: Description of your goal.
-
 I am determined to achieve these goals and make a positive impact in my field.
 """)
 
