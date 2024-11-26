@@ -61,7 +61,7 @@ I am determined to achieve these goals and make a positive impact in my field.
 
 # Optional: Add an Image (e.g., a profile picture or relevant photo)
 st.header("A Picture of Me")
-st.image("your_image.jpg", caption="Your Name", use_column_width=True)
+st.image("pau", caption="Your Name", use_column_width=True)
 
 # Footer
 st.write("Thank you for visiting my student biography!")
