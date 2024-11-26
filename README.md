@@ -6,18 +6,18 @@ st.title("My Student Biography")
 # Section for personal details
 st.header("About Me")
 st.write("""
-Hello! My name is **[Your Name]**. I am a student at **[Your University]**. I am currently studying **[Your Major]**.
-I am passionate about learning and exploring new things in the field of **[Your Field of Interest]**.
+Hello! My name is **[Paulene D. Compasivo]**. I am a student at **[Surigao Del Norte State University]**. I am currently studying **[Programming]**.
+I am passionate about learning and exploring new things in the field of **[]**.
 """)
 
 # Personal Details
 st.subheader("Personal Details")
-name = "[Your Name]"
-age = "[Your Age]"
-university = "[Your University]"
-major = "[Your Major]"
-year = "[Current Year of Study]"
-location = "[Your Location]"
+name = "[Paulene D. Compasivo]"
+age = "[19]"
+university = "[Surigao Del Norte State University]"
+major = "[Programming]"
+year = "[First Year]"
+location = "[Brgy. TAFT, Surigao City]"
 
 st.write(f"**Name:** {name}")
 st.write(f"**Age:** {age}")
